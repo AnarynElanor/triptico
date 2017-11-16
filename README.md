@@ -1,4 +1,4 @@
-#Tríptico
+# Tríptico
 
 ## Ejercicio 2
 
